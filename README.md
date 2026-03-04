@@ -5,7 +5,7 @@
  
  # auto-mcs (Flatpak-bundled)
  
- Welcome to auto-mcs! This software provides a simple and easy-to-digest experience for those who want to play Minecraft with their friends without the hassle of server installation & maintenance.
+ Welcome to auto-mcs (Unofficial)! This software provides a simple and easy-to-digest experience for those who want to play Minecraft with their friends without the hassle of server installation & maintenance.
  <br><br>
  Some notable features include:
  
