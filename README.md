@@ -1,4 +1,5 @@
-> NOTE: this is not an official distribution of `auto-mcs` and issues from the Flatpak should be reported here.
+> - NOTE: this is not an official distribution of `auto-mcs` and issues from the Flatpak should be reported here.
+> - Original version of `auto-mcs` is [here](https://github.com/macarooni-man/auto-mcs)
  
  ![inqSerdiagram](https://github.com/macarooni-man/auto-mcs/blob/main/other/github-banner-cropped.png?raw=true)
  
