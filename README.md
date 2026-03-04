@@ -33,11 +33,17 @@
  - Built-in `server.properties` editor for ease of use
  
  - And so much more...
+   ### Features of Flatpak
+
+    - Access to the network
+    - Supports GPU Acceleration
+    - Supports both X11 and Wayland compositors
+
    
-   auto-mcs completely supports, updates, and manages:
+ - `auto-mcs` completely supports, updates, and manages:
    Paper - Purpur - Fabric - Quilt - NeoForge - Forge - Spigot - CraftBukkit - Vanilla
- 
- <br><br>
+ - However, this flatpak version may/may not.
+ <br>
  
  # Installation & Setup
  
@@ -69,7 +75,7 @@
  
  - auto-mcs can detect and manage a wide variety of servers that you have made yourself. Select the root folder of the server and click import to use all of auto-mcs's features!
    
-    Note: Importing will copy your server to a different directory and create a backup. The original directory will be untouched
+ > NOTE: Importing will copy your server to a different directory and create a backup. The original directory will be untouched
  
  <br>
  And that's it - click launch to play with your friends!
@@ -77,39 +83,39 @@
  <br><br>
  
  # Advanced Configuration
+  - As this is a relatively new project, a lot of things have and may change during development.
+  - [Visit the website for a comprehensive overview of all the features provided by auto-mcs](https://www.auto-mcs.com/guides).
  
- As this is a relatively new project, a lot of things have and may change during development. [Visit the website for a comprehensive overview of all the features provided by auto-mcs](https://www.auto-mcs.com/guides).
- 
- <br><br>
+ <br>
  
  # Contact & Inquiries
  
  - If you experience a crash, please submit an issue with the bug label including the crash report provided by auto-mcs.
-   <br<br
+   <br>
  - If you experience a bug, please submit an issue with the bug label including screenshots or a detailed description and location of the problem.
  
- <br><br>
+ <br>
  
  # Additional Information
  
  - auto-mcs is and will continue to be a free project for anyone to use. If you feel as though this project has brought you value, [please consider donating](https://github.com/sponsors/macarooni-man) to the continued development and maturity of auto-mcs. Thank you!
-   <br<br
+   <br>
  - auto-mcs will not transfer any information to other networked systems unless explicitly requested by any party involved with installing or operating it
-   <br<br
- - By using this software you agree to the [terms & conditions](https://www.auto-mcs.com/terms-and-conditions)
+   <br>
+ - By using this software you agree to the [terms & conditions](https://www.auto-mcs.com/terms-and-conditions).
  
- <br><br>
+ <br>
  
  # Sponsors
  
- <table
-  <tbody
-   <tr
-    <td align="center"<img alt="[SignPath]" src="https://avatars.githubusercontent.com/u/34448643" height="30"/</td
-    <tdFree code signing on Windows provided by <a href="https://signpath.io/"SignPath.io</a, certificate by <a href="https://signpath.org/"SignPath Foundation</a</td
-   </tr
-  </tbody
- </table
+<table>
+ <tbody>
+  <tr>
+   <td align="center"><img alt="[SignPath]" src="https://avatars.githubusercontent.com/u/34448643" height="30"/></td>
+   <td>Free code signing on Windows provided by <a href="https://signpath.io/">SignPath.io</a>, certificate by <a href="https://signpath.org/">SignPath Foundation</a></td>
+  </tr>
+ </tbody>
+</table>
 
 
 
