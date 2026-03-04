@@ -34,7 +34,7 @@
  - Built-in `server.properties` editor for ease of use
  
  - And so much more...
-   ### Features of Flatpak
+   ### Features of Flatpak-bundle
 
     - Access to the network
     - Supports GPU Acceleration
@@ -76,7 +76,7 @@
  
  - auto-mcs can detect and manage a wide variety of servers that you have made yourself. Select the root folder of the server and click import to use all of auto-mcs's features!
    
- > NOTE: Importing will copy your server to a different directory and create a backup. The original directory will be untouched
+ > NOTE: Importing will copy your server to a different directory and create a backup. The original directory will be untouched.
  
  <br>
  And that's it - click launch to play with your friends!
@@ -86,7 +86,6 @@
  # Advanced Configuration
   - As this is a relatively new project, a lot of things have and may change during development.
   - [Visit the website for a comprehensive overview of all the features provided by auto-mcs](https://www.auto-mcs.com/guides).
- 
  <br>
  
  # Contact & Inquiries
