@@ -81,7 +81,7 @@
  <br>
  And that's it - click launch to play with your friends!
  
- <br><br>
+ <br>
  
  # Advanced Configuration
   - As this is a relatively new project, a lot of things have and may change during development.
