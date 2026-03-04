@@ -2,7 +2,7 @@
  
  ![inqSerdiagram](https://github.com/macarooni-man/auto-mcs/blob/main/other/github-banner-cropped.png?raw=true)
  
- # auto-mcs (Flatpak)
+ # auto-mcs (Flatpak-bundled)
  
  Welcome to auto-mcs! This software provides a simple and easy-to-digest experience for those who want to play Minecraft with their friends without the hassle of server installation & maintenance.
  <br><br>
