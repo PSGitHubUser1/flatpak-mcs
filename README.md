@@ -58,7 +58,7 @@
  -  NOTE: Do not **'Open'** from Warehouse as it has some issues.
  > NOTE: On opening, it shows no-internet and that's okay, just click on any button (not 'Quit' of course), then comeback & its fixed.
  
- If you'd like to compile auto-mcs yourself, take a peek at the [here](https://gist.github.com/PSGitHubUser1/d572bc067398168279d26fa95b9f766c)!
+ If you'd like to **compile** auto-mcs yourself, take a peek at the [here](https://gist.github.com/PSGitHubUser1/d572bc067398168279d26fa95b9f766c)!
  
  <br>
  
